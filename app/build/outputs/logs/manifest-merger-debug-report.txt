@@ -1,0 +1,480 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+MERGED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:2:1-22:12
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\45b960661c4812d2e9c9117d3f3613f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e2ef57920d58d83605788d99882925c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\6091221b7cef70f4b35d1522e39a845b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\2fd086d40e54056b726ce2b43910aec2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6cc6c05e1e15a40126d3a06afefde487\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\core-3.2.1.aar\688e52cb0a93e9c1b6ff3cb13a883e85\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\a3d96270497855a55e2e9831ba48accf\AndroidManifest.xml:2:1-13:12
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\aca5ccc9023caef3c03390548a364195\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b41bae71b586720f10b56c6f87e379b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\501e3922f0d42924be958f6a5e818605\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b516b083d6bcc625703e192858ebdbd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\332dcdd43ef9082df999bc5da46c017f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\84801450c602e4a0bf01934c2d33af9a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a6b6340d8a469c321b14f12a95f2e27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f69a793e038cb8cdcea94dfdf481a060\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008c32028f387ed60056fc3f4940826a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57786a1c2eaa820a1f34bc3127a9dbfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aef0f73e19d7d12d1abbcbe6acfd06fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d219e4b0cd45e1c97a9195ed2da0dc89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\714414d75ebf887aa5988bcdb8c6ed84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9995b9f5afa44407ba7ff8ceff69916e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6950d396f2dc2f8e1ddd7a52bb4e1bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d40ffbf2c870c71e869246172f66e4f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+	package
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:5:5-47
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:2:1-327:12
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:3:5-63
+	android:installLocation
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:6:5-35
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:8:5-10:30
+REJECTED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\core-3.2.1.aar\688e52cb0a93e9c1b6ff3cb13a883e85\AndroidManifest.xml:9:5-74
+	tools:node
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:10:9-28
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:9:9-58
+application
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:12:5-326:19
+MERGED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:11:5-20:19
+MERGED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:11:5-20:19
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\2fd086d40e54056b726ce2b43910aec2\AndroidManifest.xml:9:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\2fd086d40e54056b726ce2b43910aec2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\a3d96270497855a55e2e9831ba48accf\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\a3d96270497855a55e2e9831ba48accf\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\84801450c602e4a0bf01934c2d33af9a\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\84801450c602e4a0bf01934c2d33af9a\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:16:9-50
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:13:9-28
+activity#com.simplemobiletools.calculator.activities.SplashActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:21:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.simplemobiletools.calculator.activities.MainActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:30:9-32:51
+	android:screenOrientation
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:31:13-52
+activity#com.simplemobiletools.calculator.activities.WidgetConfigureActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:screenOrientation
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:35:13-63
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:38:13-40:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:39:17-86
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:39:25-84
+activity#com.simplemobiletools.calculator.activities.SettingsActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:43:9-46:68
+	android:parentActivityName
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:46:13-66
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:44:13-56
+activity#com.simplemobiletools.commons.activities.AboutActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:48:9-51:68
+	android:parentActivityName
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:51:13-66
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:50:13-42
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:49:13-82
+activity#com.simplemobiletools.commons.activities.LicenseActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:53:9-56:98
+	android:parentActivityName
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:56:13-96
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:55:13-57
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:54:13-84
+activity#com.simplemobiletools.commons.activities.CustomizationActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:58:9-61:72
+	android:parentActivityName
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:61:13-70
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:60:13-53
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:59:13-90
+activity#com.simplemobiletools.commons.activities.FAQActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:63:9-66:98
+	android:parentActivityName
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:66:13-96
+	android:label
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:64:13-80
+receiver#com.simplemobiletools.calculator.helpers.MyWidgetProvider
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:68:9-78:20
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:69:13-53
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:71:13-73:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:72:17-83
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:72:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:75:13-77:54
+	android:resource
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:77:17-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:76:17-58
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:81:9-91:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:83:13-35
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:86:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:85:13-52
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:84:13-47
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:82:13-54
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Red
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:93:9-104:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:95:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:98:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:97:13-56
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:96:13-51
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:94:13-58
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Pink
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:106:9-117:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:108:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:111:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:110:13-57
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:109:13-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:107:13-59
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Purple
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:119:9-130:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:121:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:124:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:123:13-59
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:122:13-54
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:120:13-61
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Deep_purple
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:132:9-143:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:134:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:137:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:136:13-64
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:135:13-59
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:133:13-66
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Indigo
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:145:9-156:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:147:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:150:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:149:13-59
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:148:13-54
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:146:13-61
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Blue
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:158:9-169:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:160:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:163:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:162:13-57
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:161:13-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:159:13-59
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Light_blue
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:171:9-182:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:173:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:176:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:175:13-63
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:174:13-58
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:172:13-65
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Cyan
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:184:9-195:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:186:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:189:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:188:13-57
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:187:13-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:185:13-59
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Teal
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:197:9-208:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:199:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:202:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:201:13-57
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:200:13-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:198:13-59
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Green
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:210:9-221:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:212:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:215:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:214:13-58
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:213:13-53
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:211:13-60
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Light_green
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:223:9-234:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:225:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:228:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:227:13-64
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:226:13-59
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:224:13-66
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Lime
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:236:9-247:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:238:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:241:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:240:13-57
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:239:13-52
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:237:13-59
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Yellow
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:249:9-260:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:251:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:254:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:253:13-59
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:252:13-54
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:250:13-61
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Amber
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:262:9-273:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:264:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:267:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:266:13-58
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:265:13-53
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:263:13-60
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Deep_orange
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:275:9-286:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:277:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:280:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:279:13-64
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:278:13-59
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:276:13-66
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Brown
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:288:9-299:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:290:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:293:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:292:13-58
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:291:13-53
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:289:13-60
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Blue_grey
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:301:9-312:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:303:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:306:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:305:13-62
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:304:13-57
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:302:13-64
+activity-alias#com.simplemobiletools.calculator.activities.SplashActivity.Grey_black
+ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:314:9-325:26
+	android:enabled
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:316:13-36
+	android:targetActivity
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:319:13-64
+	android:roundIcon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:318:13-63
+	android:icon
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:317:13-58
+	android:name
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml:315:13-65
+uses-sdk
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+MERGED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:7:5-9:41
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\45b960661c4812d2e9c9117d3f3613f9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.grantland:autofittextview:0.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\autofittextview-0.2.1.aar\45b960661c4812d2e9c9117d3f3613f9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e2ef57920d58d83605788d99882925c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e2ef57920d58d83605788d99882925c6\AndroidManifest.xml:20:5-44
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\6091221b7cef70f4b35d1522e39a845b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\patternlockview-1.0.0.aar\6091221b7cef70f4b35d1522e39a845b\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\2fd086d40e54056b726ce2b43910aec2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-multiselect-0.2.aar\2fd086d40e54056b726ce2b43910aec2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6cc6c05e1e15a40126d3a06afefde487\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6cc6c05e1e15a40126d3a06afefde487\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\core-3.2.1.aar\688e52cb0a93e9c1b6ff3cb13a883e85\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ajalt.reprint:core:3.2.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\core-3.2.1.aar\688e52cb0a93e9c1b6ff3cb13a883e85\AndroidManifest.xml:7:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\a3d96270497855a55e2e9831ba48accf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\a3d96270497855a55e2e9831ba48accf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\aca5ccc9023caef3c03390548a364195\AndroidManifest.xml:8:5-10:41
+MERGED from [com.booking:rtlviewpager:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\rtlviewpager-1.0.1.aar\aca5ccc9023caef3c03390548a364195\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b41bae71b586720f10b56c6f87e379b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b41bae71b586720f10b56c6f87e379b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\501e3922f0d42924be958f6a5e818605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\501e3922f0d42924be958f6a5e818605\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b516b083d6bcc625703e192858ebdbd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b516b083d6bcc625703e192858ebdbd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\332dcdd43ef9082df999bc5da46c017f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\332dcdd43ef9082df999bc5da46c017f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\84801450c602e4a0bf01934c2d33af9a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\84801450c602e4a0bf01934c2d33af9a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a6b6340d8a469c321b14f12a95f2e27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5a6b6340d8a469c321b14f12a95f2e27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f69a793e038cb8cdcea94dfdf481a060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f69a793e038cb8cdcea94dfdf481a060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008c32028f387ed60056fc3f4940826a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008c32028f387ed60056fc3f4940826a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57786a1c2eaa820a1f34bc3127a9dbfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57786a1c2eaa820a1f34bc3127a9dbfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aef0f73e19d7d12d1abbcbe6acfd06fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\aef0f73e19d7d12d1abbcbe6acfd06fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d219e4b0cd45e1c97a9195ed2da0dc89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d219e4b0cd45e1c97a9195ed2da0dc89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\714414d75ebf887aa5988bcdb8c6ed84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\714414d75ebf887aa5988bcdb8c6ed84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9995b9f5afa44407ba7ff8ceff69916e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9995b9f5afa44407ba7ff8ceff69916e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6950d396f2dc2f8e1ddd7a52bb4e1bb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6950d396f2dc2f8e1ddd7a52bb4e1bb6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d40ffbf2c870c71e869246172f66e4f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7d40ffbf2c870c71e869246172f66e4f\AndroidManifest.xml:20:5-44
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\Mobile-Automation-Test-Android_1\Simple-Calculator\app\src\main\AndroidManifest.xml
+receiver#com.simplemobiletools.commons.receivers.SharedThemeReceiver
+ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:12:9-19:20
+	android:exported
+		ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:13:13-87
+intent-filter#action:name:com.simplemobiletools.commons.SHARED_THEME_ACTIVATED+action:name:com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:15:13-18:29
+action#com.simplemobiletools.commons.SHARED_THEME_ACTIVATED
+ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:16:17-95
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:16:25-92
+action#com.simplemobiletools.commons.SHARED_THEME_UPDATED
+ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:17:17-93
+	android:name
+		ADDED from [com.simplemobiletools:commons:4.0.15] C:\Users\User\.gradle\caches\transforms-1\files-1.1\commons-4.0.15.aar\3c76253d2799d2e1fd5881cc5d5116d5\AndroidManifest.xml:17:25-90

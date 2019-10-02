@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\Mobile-Automation-Test-Android_1\\Simple-Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\6cc6c05e1e15a40126d3a06afefde487\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\e2ef57920d58d83605788d99882925c6\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19,20,21,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "815,875,945,1016,1088,1146,1204,1310,1852,1915",
+                        "endLines": "14,15,16,17,18,19,20,21,32,36",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "870,940,1011,1083,1141,1199,1305,1369,1910,2092"
+                    }
+                },
+                {
+                    "source": "C:\\workspace\\Mobile-Automation-Test-Android_1\\Simple-Calculator\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,6,5,2,1",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "116,213,164,65,16",
+                        "endColumns": "47,48,48,49,48",
+                        "endOffsets": "159,257,208,110,60"
+                    },
+                    "to": {
+                        "startLines": "11,22,24,26,27",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "656,1374,1474,1568,1618",
+                        "endColumns": "47,48,48,49,48",
+                        "endOffsets": "699,1418,1518,1613,1662"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\commons-4.0.15.aar\\3c76253d2799d2e1fd5881cc5d5116d5\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,155,211,262,307,355,407,450",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "95,150,206,257,302,350,402,445,487"
+                    },
+                    "to": {
+                        "startLines": "10,12,13,23,25,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,704,759,1423,1523,1667,1715,1767,1810",
+                        "endColumns": "44,54,55,50,44,47,51,42,41",
+                        "endOffsets": "651,754,810,1469,1563,1710,1762,1805,1847"
+                    }
+                }
+            ]
+        }
+    ]
+}

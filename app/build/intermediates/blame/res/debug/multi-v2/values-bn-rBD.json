@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\Mobile-Automation-Test-Android_1\\Simple-Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn-rBD\\values-bn-rBD.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\core-3.2.1.aar\\688e52cb0a93e9c1b6ff3cb13a883e85\\res\\values-bn-rBD\\values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,231,389,543,692,838,962,1099,1235,1399,1542,1654,1751",
+                        "endColumns": "175,157,153,148,145,123,136,135,163,142,111,96,84",
+                        "endOffsets": "226,384,538,687,833,957,1094,1230,1394,1537,1649,1746,1831"
+                    }
+                }
+            ]
+        }
+    ]
+}
